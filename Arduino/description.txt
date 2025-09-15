@@ -1,0 +1,7 @@
+Code for Arduino to generate commands in tandem with the motor controller to control torque output of the motor.
+
+simple_control uses PID to control motor.
+
+CAN_vel_torq_SD will output velocity and torque values to an SD card.
+
+PIDcontrolCANcomm2serialmonitor outputs control commands and IMU values to the serial monitor for data collection.
