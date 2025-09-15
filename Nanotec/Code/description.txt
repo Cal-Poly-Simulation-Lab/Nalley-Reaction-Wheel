@@ -4,6 +4,8 @@ You can use Plug and Drive Studio to upload NanoJ code (it is similar to C++), w
 
 The Torq_analog file is NanoJ code that converts an analog input to a torque output on the motor. This is included in the .nprj file, but is provided as reference for the code running.
 
+
 Other code examples are available from the manufacturers website at https://www.nanotec.com/us/en/knowledge-base-article/nanoj-v2-example-programs
 
+The .bin file is firmware that only needs to be updated at the initial use of the motor controller.
 If using making more reaction wheels with same motor controller, future motor controllers will have to have initial firmware installed on them via Plug and Drive Studio 2, 3 did not work for me.
