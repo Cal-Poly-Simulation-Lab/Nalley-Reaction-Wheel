@@ -1,0 +1,9 @@
+The .nprj can be loaded as a "project" into Plug and Drive Studio 3. This will have all the default motor settings on it such as maximum amperage, motor type, etc. 
+
+You can use Plug and Drive Studio to upload NanoJ code (it is similar to C++), which acts as the code interface for the motor controller.
+
+The Torq_analog file is NanoJ code that converts an analog input to a torque output on the motor. This is included in the .nprj file, but is provided as reference for the code running.
+
+Other code examples are available from the manufacturers website at https://www.nanotec.com/us/en/knowledge-base-article/nanoj-v2-example-programs
+
+If using making more reaction wheels with same motor controller, future motor controllers will have to have initial firmware installed on them via Plug and Drive Studio 2, 3 did not work for me.
