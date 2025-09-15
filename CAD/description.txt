@@ -1,0 +1,7 @@
+Zip should include latest CAD design files (let me know if otherwise).
+
+Rotating assembly is just the part of RW that moves.
+
+Halves no contr does not include the controller for simulation purposes.
+
+Main assembly is RWA Mk. III Halves.
